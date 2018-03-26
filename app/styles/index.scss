@@ -1,4 +1,10 @@
 .wrapper{
-    height: 30px;
-    width: 900px;
+    width: 200px;
+    height: 40px;
+    overflow-x: hidden
+}
+
+.wrapper div div{
+    display: inline-block;
+    border: 1px solid #66f852;
 }
